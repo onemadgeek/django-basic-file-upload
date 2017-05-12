@@ -1,14 +1,14 @@
 # django-basic-file-upload
 - Create Virtual Environment.
-virtualenv venv
+    ```virtualenv venv``
 - Activate the environment.
-source venv/bin/activate
+    ```source venv/bin/activate``
 - Install requirements.txt
-pip install -r requirements.txt
+    ```pip install -r requirements.txt``
 - Go to the project folder (In this case: dfu)
-- Make migrate.
-python manage.py migrate
+- Migrate.
+    ```python manage.py migrate``
 - Do collect static.
-python manage.py collectstatic
+    ```python manage.py collectstatic``
 - Run the server.
-python manage.py runserver 5000
+    ```python manage.py runserver 5000``

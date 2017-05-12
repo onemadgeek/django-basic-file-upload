@@ -2,7 +2,7 @@
 - Create Virtual Environment.
     ```virtualenv venv```
 - Activate the environment.
-    ```source venv/bin/activate````
+    ```source venv/bin/activate```
 - Install requirements.txt
     ```pip install -r requirements.txt```
 - Go to the project folder (In this case: dfu)
